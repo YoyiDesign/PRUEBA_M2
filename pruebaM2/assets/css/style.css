@@ -1,0 +1,36 @@
+@media (max-width:768px){
+
+  .Quienes-Somos {
+    display: none;
+  }
+}
+
+*body {
+	margin: 0px;
+    padding: 0px;
+    font-family: "Ubuntu", sans-serif;
+}
+
+
+.nav logo {
+    margin-bottom: 0px;
+    margin-right: 3px;
+    padding: 0px;
+}
+
+#inputEmail4 {
+    font-weight: 700;
+    color: #373a3c;
+}
+
+.destacado {
+    height: 600px;
+    margin-bottom: 200px;
+}
+
+/* Footer */
+.footer a {
+  width: 10px;
+  text-decoration: none;
+  text-decoration-color: rgb(64, 204, 229);
+}
